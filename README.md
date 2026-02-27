@@ -54,6 +54,7 @@ Skills, agents, and tools for extending Claude Code:
 | [claude-ecosystem-health](https://github.com/aplaceforallmystuff/claude-ecosystem-health) | Drift detection across skills, agents, MCP servers, and vault | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/claude-ecosystem-health?style=flat-square)](https://github.com/aplaceforallmystuff/claude-ecosystem-health) |
 | [claude-draft-reviewer](https://github.com/aplaceforallmystuff/claude-draft-reviewer) | Review and fix drafts for slop, craft, and voice consistency | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/claude-draft-reviewer?style=flat-square)](https://github.com/aplaceforallmystuff/claude-draft-reviewer) |
 | [claude-rfu-audit](https://github.com/aplaceforallmystuff/claude-rfu-audit) | 11-gate utility gauntlet — validate project value before investing effort | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/claude-rfu-audit?style=flat-square)](https://github.com/aplaceforallmystuff/claude-rfu-audit) |
+| [claude-art-skill](https://github.com/aplaceforallmystuff/claude-art-skill) | Visual content system — 16 workflows, 2 AI models, aesthetic routing, brand customization | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/claude-art-skill?style=flat-square)](https://github.com/aplaceforallmystuff/claude-art-skill) |
 
 ---
 
