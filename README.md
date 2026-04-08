@@ -27,6 +27,7 @@ Model Context Protocol servers connecting AI assistants to real-world services:
 
 | Project | What It Does | |
 |---|---|---|
+| [spain-ai-kit](https://github.com/aplaceforallmystuff/spain-ai-kit) 🇪🇸 | Monorepo of MCP servers for Spanish government open data — INE statistics, BOE legislation (12k+ laws), Catastro land registry, AEMET weather | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/spain-ai-kit?style=flat-square)](https://github.com/aplaceforallmystuff/spain-ai-kit) |
 | [mcp-arr](https://github.com/aplaceforallmystuff/mcp-arr) | Media management suite (Sonarr, Radarr, Lidarr, Readarr, Prowlarr) | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-arr?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-arr) |
 | [mcp-tailscale](https://github.com/aplaceforallmystuff/mcp-tailscale) | Tailscale network management | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-tailscale?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-tailscale) |
 | [mcp-kit](https://github.com/aplaceforallmystuff/mcp-kit) | Kit.com (ConvertKit) email marketing | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-kit?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-kit) |
