@@ -2,7 +2,7 @@
 
 **AI implementation specialist. Framework creator. Builder of tools that bridge human thinking and machine capability.**
 
-I've spent 30+ years in technology — from security (CEH certified) to building production AI systems. Based in Valencia, Spain, I create frameworks, MCP servers, and Claude Code tools that help people work with AI systematically rather than haphazardly.
+I've spent 30+ years in technology — from security to building production AI systems. Based in Valencia, Spain, I create frameworks, MCP servers, and Claude Code tools that help people work with AI systematically rather than haphazardly.
 
 I believe in **integration over capability** — that systematic implementation beats tool sophistication every time. The organizations that succeed with AI aren't the ones with the best tools; they're the ones with the clearest thinking about what they're trying to achieve.
 
