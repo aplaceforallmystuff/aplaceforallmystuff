@@ -1,6 +1,6 @@
 # Jim Christian
 
-**AI implementation specialist. Framework creator. Builder of tools that bridge human thinking and machine capability.**
+**Tech integrator.**
 
 I've spent 30+ years in technology — from security to building production AI systems. Based in Valencia, Spain, I create frameworks, MCP servers, and Claude Code tools that help people work with AI systematically rather than haphazardly.
 
