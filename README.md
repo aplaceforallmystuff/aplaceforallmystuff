@@ -1,23 +1,10 @@
 # Jim Christian
 
-**Tech integrator.**
+**Integrator — I connect domains other people keep separate: security, education, and AI. Framework creator. Builder of tools that bridge human thinking and machine capability.**
 
-I've spent 30+ years in technology — from security to building production AI systems. Based in Valencia, Spain, I create frameworks, MCP servers, and Claude Code tools that help people work with AI systematically rather than haphazardly.
+I've spent 30+ years in technology, and the thread through all of it is integration — taking complex things and making them work together. Based in Valencia, Spain, I build frameworks, MCP servers, and Claude Code tools that help people work with AI systematically rather than haphazardly.
 
 I believe in **integration over capability** — that systematic implementation beats tool sophistication every time. The organizations that succeed with AI aren't the ones with the best tools; they're the ones with the clearest thinking about what they're trying to achieve.
-
----
-
-### Open Frameworks
-
-I created two complementary frameworks for AI adoption and implementation, now open-source under CC BY-SA 4.0:
-
-| Framework | What It Does | |
-|---|---|---|
-| **[The PAST Framework](https://github.com/aplaceforallmystuff/past-framework)** | Strategic clarity for AI adoption — Purpose, Audience, Scope, Tone | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/past-framework?style=flat-square)](https://github.com/aplaceforallmystuff/past-framework) |
-| **[The SHAPE Methodology](https://github.com/aplaceforallmystuff/shape-framework)** | Execution methodology — Situation, Hypothesis, Action, Process, Evaluation | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/shape-framework?style=flat-square)](https://github.com/aplaceforallmystuff/shape-framework) |
-
-**PAST** tells you *what* and *why*. **SHAPE** tells you *how* and *when*. Together they take AI initiatives from scattered experiments to systematic implementation.
 
 ---
 
@@ -30,11 +17,10 @@ Model Context Protocol servers connecting AI assistants to real-world services:
 | [spain-ai-kit](https://github.com/aplaceforallmystuff/spain-ai-kit) 🇪🇸 | Monorepo of MCP servers for Spanish government open data — INE statistics, BOE legislation (12k+ laws), Catastro land registry, AEMET weather | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/spain-ai-kit?style=flat-square)](https://github.com/aplaceforallmystuff/spain-ai-kit) |
 | [mcp-arr](https://github.com/aplaceforallmystuff/mcp-arr) | Media management suite (Sonarr, Radarr, Lidarr, Readarr, Prowlarr) | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-arr?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-arr) |
 | [mcp-tailscale](https://github.com/aplaceforallmystuff/mcp-tailscale) | Tailscale network management | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-tailscale?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-tailscale) |
-| [mcp-kit](https://github.com/aplaceforallmystuff/mcp-kit) | Kit.com (ConvertKit) email marketing | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-kit?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-kit) |
 | [mcp-local-llm](https://github.com/aplaceforallmystuff/mcp-local-llm) | Route mechanical tasks to local LLMs via Ollama | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-local-llm?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-local-llm) |
-| [mcp-pickaxe](https://github.com/aplaceforallmystuff/mcp-pickaxe) | Pickaxe AI agent platform | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-pickaxe?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-pickaxe) |
 | [mcp-wisdom](https://github.com/aplaceforallmystuff/mcp-wisdom) | Philosophy-grounded thinking frameworks (Stoic, Cognitive, Strategic) | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-wisdom?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-wisdom) |
-| [mcp-threatintel](https://github.com/aplaceforallmystuff/mcp-threatintel) | Unified threat intelligence (OTX, AbuseIPDB, GreyNoise) | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-threatintel?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-threatintel) |
+| [mcp-threatintel](https://github.com/aplaceforallmystuff/mcp-threatintel) | Unified threat intelligence (OTX, AbuseIPDB, GreyNoise, abuse.ch) | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-threatintel?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-threatintel) |
+| [mcp-cti-glossary](https://github.com/aplaceforallmystuff/mcp-cti-glossary) | Cyber threat-intel glossary — MITRE ATT&CK, OFAC SDN, and a cross-vendor threat-actor alias map with full-text search | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-cti-glossary?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-cti-glossary) |
 | [mcp-fantastical](https://github.com/aplaceforallmystuff/mcp-fantastical) | Fantastical calendar management | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-fantastical?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-fantastical) |
 | [mcp-pihole](https://github.com/aplaceforallmystuff/mcp-pihole) | Pi-hole v6 DNS blocking control | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-pihole?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-pihole) |
 | [mcp-homescan](https://github.com/aplaceforallmystuff/mcp-homescan) | Home network discovery and security scanning | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-homescan?style=flat-square)](https://github.com/aplaceforallmystuff/mcp-homescan) |
@@ -56,6 +42,20 @@ Skills, agents, and tools for extending Claude Code:
 | [claude-draft-reviewer](https://github.com/aplaceforallmystuff/claude-draft-reviewer) | Review and fix drafts for slop, craft, and voice consistency | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/claude-draft-reviewer?style=flat-square)](https://github.com/aplaceforallmystuff/claude-draft-reviewer) |
 | [claude-rfu-audit](https://github.com/aplaceforallmystuff/claude-rfu-audit) | 11-gate utility gauntlet — validate project value before investing effort | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/claude-rfu-audit?style=flat-square)](https://github.com/aplaceforallmystuff/claude-rfu-audit) |
 | [claude-art-skill](https://github.com/aplaceforallmystuff/claude-art-skill) | Visual content system — 16 workflows, 2 AI models, aesthetic routing, brand customization | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/claude-art-skill?style=flat-square)](https://github.com/aplaceforallmystuff/claude-art-skill) |
+| [signal-starter-kit](https://github.com/aplaceforallmystuff/signal-starter-kit) | Four Claude Code skills (think-first, antislop, voice-editor, lessons-learned) with a one-command installer | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/signal-starter-kit?style=flat-square)](https://github.com/aplaceforallmystuff/signal-starter-kit) |
+
+---
+
+### Open Frameworks
+
+I created two complementary frameworks for AI adoption and implementation, now open-source under CC BY-SA 4.0:
+
+| Framework | What It Does | |
+|---|---|---|
+| **[The PAST Framework](https://github.com/aplaceforallmystuff/past-framework)** | Strategic clarity for AI adoption — Purpose, Audience, Scope, Tone | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/past-framework?style=flat-square)](https://github.com/aplaceforallmystuff/past-framework) |
+| **[The SHAPE Methodology](https://github.com/aplaceforallmystuff/shape-framework)** | Execution methodology — Situation, Hypothesis, Action, Process, Evaluation | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/shape-framework?style=flat-square)](https://github.com/aplaceforallmystuff/shape-framework) |
+
+**PAST** tells you *what* and *why*. **SHAPE** tells you *how* and *when*. Together they take AI initiatives from scattered experiments to systematic implementation.
 
 ---
 
@@ -66,6 +66,7 @@ Skills, agents, and tools for extending Claude Code:
 | [minervia-starter-kit](https://github.com/aplaceforallmystuff/minervia-starter-kit) | A co-operating system for human-led knowledge work | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/minervia-starter-kit?style=flat-square)](https://github.com/aplaceforallmystuff/minervia-starter-kit) |
 | [wisdom-pack](https://github.com/aplaceforallmystuff/wisdom-pack) | Philosophy-grounded slash commands for Claude Code | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/wisdom-pack?style=flat-square)](https://github.com/aplaceforallmystuff/wisdom-pack) |
 | [book-indexer](https://github.com/aplaceforallmystuff/book-indexer) | Index books and PDFs into ChromaDB for semantic search | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/book-indexer?style=flat-square)](https://github.com/aplaceforallmystuff/book-indexer) |
+| [cfbr](https://github.com/aplaceforallmystuff/cfbr) | CLI wrapper around Cloudflare Browser Rendering — fetch JS-rendered pages as Markdown, JSON, screenshots, or PDFs | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/cfbr?style=flat-square)](https://github.com/aplaceforallmystuff/cfbr) |
 | [dayone-to-obsidian](https://github.com/aplaceforallmystuff/dayone-to-obsidian) | Export Day One journal entries into Obsidian daily notes | [![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/dayone-to-obsidian?style=flat-square)](https://github.com/aplaceforallmystuff/dayone-to-obsidian) |
 
 ---
