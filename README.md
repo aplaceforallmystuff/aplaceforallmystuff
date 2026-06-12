@@ -75,8 +75,6 @@ I created two complementary frameworks for AI adoption and implementation, now o
 
 I publish **[Signal Over Noise](https://signalovernoise.at)** — a newsletter about AI implementation that cuts through the hype. Evidence-based, practically skeptical, no AI slop allowed.
 
-I also write **[Second Brain Chronicles](https://sbc.jimchristian.net)** — documenting the evolution of personal knowledge systems, the failures, and the rabbit holes.
-
 ---
 
 ### Connect
