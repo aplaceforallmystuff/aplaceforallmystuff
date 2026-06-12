@@ -48,7 +48,9 @@ Skills, agents, and tools for extending Claude Code:
 
 ### Open Frameworks
 
-I created two complementary frameworks for AI adoption and implementation, now open-source under CC BY-SA 4.0:
+**[csAIi](https://csaii.jimchristian.net)** is my current framework — **C**ontext, **S**kills, **A**gents, **I**ntegration, **I**teration: a discipline for working with AI as a co-operating system rather than a transactional tool. Explore it as an interactive walkthrough.
+
+I've also open-sourced two complementary methodologies for AI adoption and implementation under CC BY-SA 4.0:
 
 | Framework | What It Does | |
 |---|---|---|
@@ -74,6 +76,8 @@ I created two complementary frameworks for AI adoption and implementation, now o
 ### Writing
 
 I publish **[Signal Over Noise](https://signalovernoise.at)** — a newsletter about AI implementation that cuts through the hype. Evidence-based, practically skeptical, no AI slop allowed.
+
+I'm also the author of **[How to Think Like a Coder](https://thinklikeacoder.org)** (Batsford, 2017) — computational thinking taught without a line of code, shortlisted for the ALCS Educational Writers' Award — and **[How to Code in Minecraft](https://howtocodeinminecraft.com)** (Dennis Publishing, 2016).
 
 ---
 
