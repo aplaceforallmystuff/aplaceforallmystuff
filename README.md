@@ -6,6 +6,8 @@ I've spent 30+ years in technology, and the thread through all of it is integrat
 
 I believe in **integration over capability** — that systematic implementation beats tool sophistication every time. The organizations that succeed with AI aren't the ones with the best tools; they're the ones with the clearest thinking about what they're trying to achieve.
 
+**16 npm packages · ~4,800 downloads/month · 72 Claude Code skills · 2 published books.** Available for fractional AI & security advisory — the fastest way in is [jimchristian.net](https://jimchristian.net).
+
 ---
 
 ### MCP Servers
@@ -75,7 +77,7 @@ I've also open-sourced two complementary methodologies for AI adoption and imple
 
 ### Writing
 
-I publish **[Signal Over Noise](https://signalovernoise.at)** — a newsletter about AI implementation that cuts through the hype. Evidence-based, practically skeptical, no AI slop allowed.
+I publish **[Signal Over Noise](https://signalovernoise.at)** — a newsletter about getting real value from AI without the hype. Evidence-based, practically skeptical, no AI slop allowed.
 
 I'm also the author of **[How to Think Like a Coder](https://thinklikeacoder.org)** (Batsford, 2017) — computational thinking taught without a line of code, shortlisted for the ALCS Educational Writers' Award — and **[How to Code in Minecraft](https://howtocodeinminecraft.com)** (Dennis Publishing, 2016).
 
@@ -85,6 +87,6 @@ I'm also the author of **[How to Think Like a Coder](https://thinklikeacoder.org
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jim--christian--digital-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jim-christian-digital)
 [![Bluesky](https://img.shields.io/badge/Bluesky-jimchristian.net-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/jimchristian.net)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@jimchristian-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@jimchristian)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@jim@social.jimchristian.net-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://social.jimchristian.net/@jim)
 [![Website](https://img.shields.io/badge/Web-jimchristian.net-333333?style=flat-square&logo=safari&logoColor=white)](https://jimchristian.net)
 [![Newsletter](https://img.shields.io/badge/Newsletter-Signal_Over_Noise-FF6900?style=flat-square&logo=substack&logoColor=white)](https://signalovernoise.at)
