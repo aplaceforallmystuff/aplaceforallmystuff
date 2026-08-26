@@ -1,6 +1,6 @@
 # Jim Christian
 
-**Integrator — I connect domains other people keep separate: security, education, and AI. Framework creator. Builder of tools that bridge human thinking and machine capability.**
+**Integrator — I help people bring technology into their lives well, where it's genuinely needed and does the most good. Framework creator. Builder of tools that bridge human thinking and machine capability.**
 
 I've spent 30+ years in technology, and the thread through all of it is integration — taking complex things and making them work together. Based in Valencia, Spain, I build frameworks, MCP servers, and Claude Code tools that help people work with AI systematically rather than haphazardly.
 
