@@ -30,10 +30,11 @@ Different domains, same job: making separate technologies work together in ways 
 
 I’m a published author and teacher-builder. I wrote [*How to Think Like a Coder*](https://thinklikeacoder.org) and [*How to Code in Minecraft*](https://howtocodeinminecraft.com)—books designed to help people understand technology well enough to use it with confidence.
 
-I also publish [Signal Over Noise](https://signalovernoise.at), about getting real value from AI without the hype, and teach working professionals how to put AI into practice.
+I publish [Signal Over Noise](https://signalovernoise.at), about getting real value from AI without the hype, and [Second Brain Chronicles](https://secondbrainchronicles.com), where I build my AI-augmented second brain in public. I also teach working professionals how to put AI into practice.
 
 ## Start here
 
 - [jimchristian.net](https://jimchristian.net) — writing, projects, and background
 - [Work with me](https://jimchristian.net/work) — AI and security integration, advisory, and education
 - [Signal Over Noise](https://signalovernoise.at) — practical reporting on AI
+- [Second Brain Chronicles](https://secondbrainchronicles.com) — building an AI-augmented second brain in public
