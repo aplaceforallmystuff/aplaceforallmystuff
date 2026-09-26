@@ -26,6 +26,13 @@ Two open-source methods sit beneath csAIi:
 
 Different domains, same job: making separate technologies work together in ways people can use.
 
+## Squatchware
+
+[Squatchware](https://squatchware.dev) is where I ship serious software in ridiculous packaging: pixel-powered apps, tools and themes, mostly for [Omarchy](https://omarchy.org).
+
+- **[omaplex](https://github.com/squatchware/omaplex)** is a floating CRT TV for Plex. It hovers over the tiling grid instead of taking a tile, and wears your Omarchy theme.
+- **[Squatchware theme](https://github.com/squatchware/omarchy-squatchware-theme)** is a pixel-art Omarchy theme in dark and light, with a lock screen, boot splash and screensaver.
+
 ## I write, teach, and build
 
 I’m a published author and teacher-builder. I wrote [*How to Think Like a Coder*](https://thinklikeacoder.org) and [*How to Code in Minecraft*](https://howtocodeinminecraft.com)—books designed to help people understand technology well enough to use it with confidence.
