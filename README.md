@@ -20,7 +20,6 @@ Two open-source methods sit beneath csAIi:
 ## What this looks like in code
 
 - **[mcp-arr](https://github.com/aplaceforallmystuff/mcp-arr)** connects AI assistants to a working media-management stack.
-- **[mcp-threatintel](https://github.com/aplaceforallmystuff/mcp-threatintel)** brings multiple threat-intelligence sources into one usable interface.
 - **[spain-ai-kit](https://github.com/aplaceforallmystuff/spain-ai-kit)** connects AI applications to Spanish government data and legal infrastructure.
 - **[the-antislop](https://github.com/aplaceforallmystuff/the-antislop)** turns an anti-slop writing principle into a practical editing tool.
 
